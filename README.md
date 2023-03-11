@@ -19,8 +19,8 @@ npm install npm@latest -g
 **Testing:**  
 - visit: http://localhost:3000/index.html
 - Then type into the text area a puzzle file name and press "Get Puzzle" or the enter key.
-- If the puzzle name is valid, the words of the puzzle file will be scrambled on the canvas.
+  - If the puzzle name is valid, the words of the puzzle file will be scrambled on the canvas.
 - Then you can rearrange the words in the correct order and press "Solve Puzzle" to check if  
   the puzzle arrangement is correct.
-- If the puzzle arrangement is correct, the bottom text will be green, but if it's wrong,  
-  then the text will be red.
+  - If the puzzle arrangement is correct, the bottom text will be green, but if it's wrong,  
+    then the text will be red.
