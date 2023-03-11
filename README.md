@@ -6,8 +6,8 @@
   - Then, the user can drag the scrambled words into their respective locations, where a valid  
     puzzle is where the order of the words matches the text file (regardless of the line number).
 
-**Node.js Version:**    v18.13.0.  
-**OS Used:**            Windows 10  
+**Node.js Version:** &nbsp; v18.13.0.  
+**OS Used:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Windows 10  
 
 **Install:**  
 <pre>
