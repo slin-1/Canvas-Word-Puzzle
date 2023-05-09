@@ -27,3 +27,14 @@ npm install npm@latest -g
   the puzzle arrangement is correct.
   - If the puzzle arrangement is correct, the bottom text will be green, but if it's wrong,  
     then the text will be red.
+
+---
+## Puzzle SPOILERS Below
+
+Example of Puzzle 1:
+
+**Puzzle 1 unsolved:**  
+![puzzle_1_unsolved](https://user-images.githubusercontent.com/105820635/236995417-9383296a-8a57-480e-bac7-e919e071aae9.png)  
+
+**Puzzle 1 solved:**  
+![puzzle_1_solved](https://user-images.githubusercontent.com/105820635/236995157-45dde185-9081-44c1-b428-c5becc1b8e4c.png)  
