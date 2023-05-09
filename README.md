@@ -16,8 +16,11 @@ npm install npm@latest -g
   note: I did not use any external modules
 </pre>
 
+**Launch:**  
+`node server.js`
+
 **Testing:**  
-- visit: http://localhost:3000/index.html
+- after launching, visit: `http://localhost:3000/index.html`
 - Then type into the text area a puzzle file name and press "Get Puzzle" or the enter key.
   - If the puzzle name is valid, the words of the puzzle file will be scrambled on the canvas.
 - Then you can rearrange the words in the correct order and press "Solve Puzzle" to check if  
